@@ -44,6 +44,16 @@
             "width": 471,
             "height": 375,
             "fg_color": "#1F1F1F"
+        },
+        "ScrollFrame": {
+            "width": 200,
+            "height": 350,
+            "fg_color": "#1A1A1A",
+            "scrollbar_button_color": "#8C0D22",
+            "scrollbar_button_hover_color": "#8C0D22",
+            "bg_color": "#1F1F1F",
+            "corner_radius": 10,
+            "scrollbar_width": 10
         }
     }
 
