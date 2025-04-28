@@ -124,6 +124,15 @@
             "corner_radius": 5,
             "width": 471,
             "height": 471
+        },
+        "ButtomExit": {
+            "corner_radius": 10,
+            "width": 10,
+            "height": 10,
+            "text": "",
+            "hover_color": "#8c0d22",
+            "fg_color": "#8c0d22"
+
         }
     }
 }
