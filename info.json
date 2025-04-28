@@ -140,6 +140,31 @@
             "text_color": "#999999",
             "fg_color": "#262626",
             "hover": false
+        },
+        "ButtonLoadConfig": {
+            "corner_radius": 15,
+            "width": 0,
+            "height": 15,
+            "text_color": "#999999",
+            "fg_color": "#262626",
+            "hover": false
+        },
+        "EntryConfig": {
+            "bg_color": "#1A1A1A",
+            "fg_color": "#1A1A1A",
+            "border_color": "#46000c",
+            "justify": "center",
+            "border_width": 1,
+            "corner_radius": 5,
+            "placeholder_text_color": "#999999"
+        },
+        "ButtonSaveConfig": {
+            "corner_radius": 15,
+            "width": 0,
+            "height": 15,
+            "text_color": "#999999",
+            "fg_color": "#262626",
+            "hover": false
         }
     }
 }
