@@ -38,6 +38,12 @@
             "corner_radius": 8,
             "compound": "left",
             "anchor": "w"
+        },
+        "Frame": {
+            "corner_radius": 8,
+            "width": 471,
+            "height": 375,
+            "fg_color": "#1F1F1F"
         }
     }
 
