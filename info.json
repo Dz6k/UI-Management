@@ -54,6 +54,17 @@
             "bg_color": "#1F1F1F",
             "corner_radius": 10,
             "scrollbar_width": 10
+        },
+        "Slider": {
+            "height": 15,
+            "border_width": 4,
+            "button_corner_radius": 5,
+            "button_length": 3,
+            "button_color": "#850C20",
+            "fg_color": "#262626",
+            "hover": false,
+            "start_color": "#262626",
+            "end_color": "#890000"
         }
     }
 
