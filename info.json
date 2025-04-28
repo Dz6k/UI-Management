@@ -10,6 +10,8 @@
     },
 
     "Imgui": {
+        "border_color": "#58000B",
+
         "Root": {
             "corner_radius": 8,
             "width": 600,
@@ -117,7 +119,11 @@
             "text_color": "#999999",
             "hover": false,
             "anchor": "center"
+        },
+        "LabelArea": {
+            "corner_radius": 5,
+            "width": 471,
+            "height": 471
         }
     }
-
 }
