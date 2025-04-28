@@ -27,6 +27,17 @@
         "Font": {
             "size": 12,
             "weight": "normal"
+        },
+        "Button": {
+            "default_color": "#1A1A1A",
+            "hover_color": "#151515",
+            "width": 110,
+            "height": 43,
+            "hover": false,
+            "fg_color": "#1A1A1A",
+            "corner_radius": 8,
+            "compound": "left",
+            "anchor": "w"
         }
     }
 
