@@ -132,7 +132,14 @@
             "text": "",
             "hover_color": "#8c0d22",
             "fg_color": "#8c0d22"
-
+        },
+        "ButtonBindAim": {
+            "corner_radius": 20,
+            "width": 0,
+            "height": 15,
+            "text_color": "#999999",
+            "fg_color": "#262626",
+            "hover": false
         }
     }
 }
