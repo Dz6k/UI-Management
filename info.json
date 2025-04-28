@@ -23,6 +23,10 @@
             "height": 398,
             "corner_radius": 8,
             "fg_color": "#1A1A1A"
+        },
+        "Font": {
+            "size": 12,
+            "weight": "normal"
         }
     }
 
