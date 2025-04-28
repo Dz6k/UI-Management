@@ -165,6 +165,15 @@
             "text_color": "#999999",
             "fg_color": "#262626",
             "hover": false
+        },
+        "ButtonBindMenu": {
+            "corner_radius": 15,
+            "width": 0,
+            "height": 15,
+            "text_color": "#999999",
+            "fg_color": "#262626",
+            "hover": false
+
         }
     }
 }
