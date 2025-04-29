@@ -10,7 +10,7 @@
     },
 
     "Imgui": {
-        "border_color": "#0042ff",
+        "border_color": "#58000B",
 
         "Root": {
             "corner_radius": 8,
