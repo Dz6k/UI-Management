@@ -16,7 +16,7 @@
             "corner_radius": 8,
             "width": 600,
             "height": 400,
-            "border_color": "#1F1F1F",
+            "fg_color": "#1F1F1F",
             "border_width": 1
 
         },
