@@ -2,11 +2,11 @@
     "Particula": {
         "width": 750,
         "height": 550,
-        "amount": 65,
+        "amount": 55,
         "speed": 1,
-        "distance": 70,
-        "radio": 1,
-        "fps": 60
+        "distance": 85,
+        "radio": 0.6,
+        "fps": 50
     },
 
     "Imgui": {
